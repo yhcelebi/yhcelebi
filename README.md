@@ -1,88 +1,31 @@
-# 👋 Hi, I'm Yusuf Hamza Çelebi
+# Yusuf Hamza Çelebi
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
-  
-</div>
+**Computer Engineering student at Gebze Technical University** · Software engineer working across full-stack, mobile, data and quant systems.
 
-## 🚀 About Me
+I've been building software since 2020, starting with Python scripts and a Django blog and moving on to production web apps, native mobile apps and data platforms. I previously co-founded **UpcyTech**, a marketplace for recycled materials and tenders, where I built the web platform and company sites.
 
-I'm a passionate developer who loves building innovative solutions and contributing to open source. Currently working on exciting projects at **UpcyTech** and constantly exploring new technologies.
+I'm looking for **software engineering internships** in full-stack, mobile, backend or data/ML.
 
-- 🔭 I'm currently working on various Next.js projects
-- 🌱 I'm learning advanced React patterns and system architecture
-- 💬 Ask me about JavaScript, React, Next.js, and modern web development
-- ⚡ Fun fact: I debug with console.log like a pro 😎
+## Featured projects
 
-## 🛠️ Tech Stack
+| Project | What it is | Stack |
+|---|---|---|
+| [**quant-platform**](https://github.com/yhcelebi/quant-platform) | Personal quant platform: wealth accounting, market/macro data (TCMB, EVDS, FRED), quantitative research and paper trading behind a pre-trade risk gate and kill switch. Modular monolith with architecture docs and ADRs | Python 3.12, PostgreSQL, Alembic, Streamlit, Docker |
+| [**enterprise-data-generator**](https://github.com/yhcelebi/enterprise-data-generator) | Simulates 30 companies across 15 industries from 1995 to 2026, with real macro shocks, double-entry ledgers, banking, cheques and FX. Every table reconciles with every other | Python, Parquet |
+| [**earthquake**](https://github.com/yhcelebi/earthquake) | Cross-platform app that collects and analyzes earthquake data and visualizes seismic activity | Flutter, Next.js, Spring Boot, Python (ML) |
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Tech stack
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Languages:** Python, TypeScript/JavaScript, Kotlin, Java, Swift, Dart, C, C++, Go, Solidity, Lisp, Prolog
+- **Web:** React, Next.js, Node.js, Tailwind CSS, Payload CMS
+- **Mobile:** Android (Kotlin), iOS (Swift), React Native/Expo, Flutter
+- **Backend & data:** FastAPI, Django, Spring Boot, PostgreSQL, pandas, Parquet, Jupyter
+- **Tools:** Git, Docker, Linux, Vercel
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+## Journey
 
-## 📊 GitHub Stats
+**2020** Python tools and a Django blog → **2023** React, Next.js and TypeScript; first client websites → **2024** co-founded UpcyTech; Spring Boot, FastAPI, Flutter → **2026** native Android, data engineering and quant systems
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yhcelebi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yhcelebi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yhcelebi&theme=radical&hide_border=true&background=0D1117)
-  
-</div>
+## Contact
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yhcelebi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-  
-</div>
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yhcelebi&theme=react-dark&hide_border=true&area=true)
-
-## 🔥 Recent Projects
-
-- 💡 More exciting projects coming soon...
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yhcelebi)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yhcelebi)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yhcelebi)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhcelebi@example.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yhcelebi&color=blueviolet&style=flat-square)
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  ⭐️ From [yhcelebi](https://github.com/yhcelebi)
-  
-</div>
+[Website](https://yhcelebi.com) · [LinkedIn](https://linkedin.com/in/yhcelebi) · [X](https://x.com/yhcelebi) · [Email](mailto:yhcelebi@gmail.com)
