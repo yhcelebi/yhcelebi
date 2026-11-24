@@ -12,6 +12,7 @@ I'm looking for **software engineering internships** in full-stack, mobile, back
 |---|---|---|
 | [**quant-platform**](https://github.com/yhcelebi/quant-platform) | Personal quant platform: wealth accounting, market/macro data (TCMB, EVDS, FRED), quantitative research and paper trading behind a pre-trade risk gate and kill switch. Modular monolith with architecture docs and ADRs | Python 3.12, PostgreSQL, Alembic, Streamlit, Docker |
 | [**enterprise-data-generator**](https://github.com/yhcelebi/enterprise-data-generator) | Simulates 30 companies across 15 industries from 1995 to 2026, with real macro shocks, double-entry ledgers, banking, cheques and FX. Every table reconciles with every other | Python, Parquet |
+| [**ans**](https://github.com/enesteve0/ans) | Alchemist's Notation Script: a programming language for chemistry. Declares elements, compounds and reactions, checks that reactions are balanced at compile time and answers stoichiometry queries. Hand-written lexer, recursive-descent parser, two-pass type checker and tree-walking interpreter, with 35 tests. Built with [Enes Özkan](https://github.com/enesteve0) | C11, Make |
 | [**earthquake**](https://github.com/yhcelebi/earthquake) | Cross-platform app that collects and analyzes earthquake data and visualizes seismic activity | Flutter, Next.js, Spring Boot, Python (ML) |
 
 ## Earlier projects
